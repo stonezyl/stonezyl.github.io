@@ -3,14 +3,12 @@
 [gimmick:theme](bootstrap)
 
 
-[Publications]()
-[Grants]()
+[Publications](index.md)
+[Grants](index.md)
+
 [Courses]()
 
-  * ### 2019
-  * [Web Application Development]()
-  * [Hands on of Software Engineering]()
-  - - - -
-  * ### 2018   
-  * [Python]() 
+  * [Web Application Development 2019]()
+  * [Hands on of Software Engineering 2019]()  
+  * [Python 2019]() 
 
