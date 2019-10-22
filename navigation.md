@@ -6,10 +6,11 @@
 [Publications]()
 [Grants]()
 [Courses]()
+
   * ### 2019
-  * [Web Application Development](blog/2book/books.md)
+  * [Web Application Development]()
   * [Hands on of Software Engineering]()
   - - - -
   * ### 2018   
-  * [Python](blog/2book/info-fragmentation-age-remark.md) 
+  * [Python]() 
 
