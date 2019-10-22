@@ -1,2 +1,2 @@
-# rdslab.github.io
-host of lab page
+# stonezyl.github.io
+host of personal page
