@@ -9,13 +9,13 @@ Yilei Zhang and Michael R. Lyu
 Springer, 2017
 
 #### Papers
-* Efficient and Privacy-Preserving Federated QoS Prediction for Cloud Services
+<!-- * Efficient and Privacy-Preserving Federated QoS Prediction for Cloud Services
 Yilei Zhang, Peiyun Zhang, Yonglong Luo, Jun Luo
 ICWS, 2020: IEEE International Conference on Web Services
 
 * Credible and Online QoS Prediction for Services in Unreliable Cloud Environment
 Yilei Zhang, Xiao Zhang, Peiyun Zhang and Jun Luo
-SCC, 2020: IEEE International Conference on Service Computing
+SCC, 2020: IEEE International Conference on Service Computing -->
 
 * An Online Performance Prediction Framework for Service-Oriented Systems
 Yilei Zhang, Zibin Zheng and Michael R. Lyu
