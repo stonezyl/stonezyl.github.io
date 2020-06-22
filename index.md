@@ -1,5 +1,5 @@
 # Yilei Zhang
-Email: <stonezyl AT gmail DOT com>
+Email: stonezyl AT gmail DOT com
 
 
 ## 
