@@ -2,6 +2,14 @@
 Email: <stonezyl@gmail.com>
 
 
+## 
+
+Dr. Yilei Zhang is currently an Associate Professor in Department of Software Engineering, Anhui Normal University. Before joining ANU in 2018, he was a Staff Researcher in the Machine Intelligence Center, Lenovo, Hong Kong. He received his PhD from The Chinese University of Hong Kong in 2013.
+
+His research interests include service computing, cloud computing, data analytics and machine learning for intelligent software engineering.
+
+Dr. Yilei Zhang was a program committee member or reviewer of TSE, TKDD, ISSRE, PRDC, DSN, ICWS, ICIOT, SCC, WWW, KDD, AAAI, WSDM, CIKM, etc.
+
 ## Publications
 #### Book
 * QoS Prediction in Cloud and Service Computing
