@@ -4,7 +4,7 @@ Email: stonezyl AT gmail DOT com
 
 ## 
 
-Dr. Yilei Zhang is currently an Associate Professor in Department of Artificial Intelligence, Anhui Normal University. Before joining ANU in 2018, he was a Staff Researcher in the Machine Intelligence Center, Lenovo, Hong Kong. He received his PhD from The Chinese University of Hong Kong in 2013.
+Dr. Yilei Zhang is currently an Associate Professor in Department of Artificial Intelligence, Anhui Normal University. Before joining ANU in 2018, he was a Staff Researcher in the Lenovo Machine Intelligence Center, Hong Kong. He received his PhD from The Chinese University of Hong Kong in 2013.
 
 His research interests include service computing, cloud computing, intelligent software engineering.
 
