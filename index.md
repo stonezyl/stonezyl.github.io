@@ -4,9 +4,9 @@ Email: stonezyl AT gmail DOT com
 
 ## 
 
-Dr. Yilei Zhang is currently an Associate Professor in Department of Software Engineering, Anhui Normal University. Before joining ANU in 2018, he was a Staff Researcher in the Machine Intelligence Center, Lenovo, Hong Kong. He received his PhD from The Chinese University of Hong Kong in 2013.
+Dr. Yilei Zhang is currently an Associate Professor in Department of Artificial Intelligence, Anhui Normal University. Before joining ANU in 2018, he was a Staff Researcher in the Machine Intelligence Center, Lenovo, Hong Kong. He received his PhD from The Chinese University of Hong Kong in 2013.
 
-His research interests include service computing, cloud computing, data analytics and machine learning for intelligent software engineering.
+His research interests include service computing, cloud computing, intelligent software engineering.
 
 Dr. Yilei Zhang was a program committee member or reviewer of TSE, TKDD, ISSRE, PRDC, DSN, ICWS, ICIOT, SCC, WWW, KDD, AAAI, WSDM, CIKM, etc.
 
@@ -17,13 +17,25 @@ Yilei Zhang and Michael R. Lyu
 Springer, 2017
 
 #### Papers
-<!-- * Efficient and Privacy-Preserving Federated QoS Prediction for Cloud Services
-Yilei Zhang, Peiyun Zhang, Yonglong Luo, Jun Luo
-ICWS, 2020: IEEE International Conference on Web Services
+* Towards Efficient, Credible and Privacy-preserving Service QoS Prediction in Unreliable Mobile Edge Environments
+Yilei Zhang, Peiyun Zhang, Yonglong Luo and Liya Ji
+SRDS, 2020: IEEE Symposium on Reliable Distributed Systems
+
+* Real-time Automatic Configuration Tuning for Smart Manufacturing with Federated Deep Learning
+Yilei Zhang, Xinyuan Li, Peiyun Zhang
+ICSOC, 2020: International Conference on Service Oriented Computing
+
+<!-- * Towards Efficient and Privacy-Preserving Service QoS Prediction with Federated Learning
+Yilei Zhang, Xiao Zhang, Xinyuan Li
+CollaborateCom, 2020: International Conference on Collaborative Computing: Networking, Applications and Worksharing -->
 
 * Credible and Online QoS Prediction for Services in Unreliable Cloud Environment
 Yilei Zhang, Xiao Zhang, Peiyun Zhang and Jun Luo
-SCC, 2020: IEEE International Conference on Service Computing -->
+SCC, 2020: IEEE International Conference on Service Computing
+
+* Efficient and Privacy-Preserving Federated QoS Prediction for Cloud Services
+Yilei Zhang, Peiyun Zhang, Yonglong Luo and Jun Luo
+ICWS, 2020: IEEE International Conference on Web Services
 
 * An Online Performance Prediction Framework for Service-Oriented Systems
 Yilei Zhang, Zibin Zheng and Michael R. Lyu
