@@ -8,7 +8,7 @@ Dr. Yilei Zhang is currently an Associate Professor in Department of Artificial 
 
 His research interests include service computing, cloud computing, intelligent software engineering.
 
-Dr. Yilei Zhang was a program committee member or reviewer of TSE, TKDD, ISSRE, PRDC, DSN, ICWS, ICIOT, SCC, WWW, KDD, AAAI, WSDM, CIKM, etc.
+Dr. Yilei Zhang was a program committee member or reviewer of ICIOT, SCC, ICWS, TSE, ISSRE, PRDC, DSN, WWW, TKDD, KDD, AAAI, WSDM, CIKM, etc.
 
 ## Publications
 #### Book
@@ -78,4 +78,5 @@ Zibin Zheng, Yilei Zhang and Michael R. Lyu
 SRDS, 2010: IEEE International Symposium on Reliable Distributed Systems
 
 ## Grants
-* National Natural Science Foundation of China
+* National Natural Science Foundation of China, No.61802003, 2019-2021
+* Anhui Innovation Program for Overseas Students, 2018
